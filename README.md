@@ -29,6 +29,12 @@ cd alipolat.tech
 
 npm install
 ```
+
+_**If you run into version problems try this:**_
+```
+npm install --force
+```
+
 > **_Get your graphcms API key and add it to the .env.local file in the main directory or run the application via terminal with your api key. (NEXT_PUBLIC_GRAPHCMS_URL=YOUR_GRAPHCMS_URL)_**
 
 ```
