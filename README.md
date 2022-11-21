@@ -1,7 +1,7 @@
 # **Personal Portfolio**
 
 ## Overview
-**alipolat.tech** is my personal portfolio app. It hosts my social accounts, contact addresses and projects. It offers the possibility to manage the content using Graphcms. It is a web application based on NextJs.
+**Personal Portfolio** is a portfolio app. It hosts my social accounts, contact addresses and projects. It offers the possibility to manage the content using Graphcms. It is a web application based on NextJs.
 
 ## Features
 * Portfolio
