@@ -1,4 +1,4 @@
-# **alipolat.tech**
+# **Personal Portfolio**
 
 ## Overview
 **alipolat.tech** is my personal portfolio app. It hosts my social accounts, contact addresses and projects. It offers the possibility to manage the content using Graphcms. It is a web application based on NextJs.
@@ -17,15 +17,15 @@
 ## Run Locally
 _**You must have NODE and NPM installed on your computer for run.**_
 
-_! Before running, register at [graphcms](https://graphcms.com) and create the Schema below._
+_! Before running, register at [Hygraph](https://hygraph.com) and create the Schema below._
 
 Schema:
 ![Schema](https://raw.githubusercontent.com/alipolat-js/alipolat.tech/main/Schema.png)
 
 ```
-git clone https://github.com/alipolat-js/alipolat.tech.git
+git clone https://github.com/alipolat-js/personal-portfolio.git
 
-cd alipolat.tech
+cd personal-portfolio
 
 npm install
 ```
@@ -35,7 +35,7 @@ _**If you run into version problems try this:**_
 npm install --force
 ```
 
-> **_Get your graphcms API key and add it to the .env.local file in the main directory or run the application via terminal with your api key. (NEXT_PUBLIC_GRAPHCMS_URL=YOUR_GRAPHCMS_URL)_**
+> **_Get your hygraph API key and add it to the .env.local file in the main directory or run the application via terminal with your api key. (NEXT_PUBLIC_GRAPHCMS_URL=YOUR_GRAPHCMS_URL)_**
 
 ```
 npm run dev
